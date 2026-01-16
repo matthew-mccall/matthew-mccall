@@ -1,0 +1,9 @@
+{
+	"servers": {
+		"mymlh": {
+			"url": "https://mymlh-mcp.git.ci/mcp",
+			"type": "http"
+		}
+	},
+	"inputs": []
+}
